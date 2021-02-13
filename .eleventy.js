@@ -3,6 +3,62 @@ const CleanCSS = require("clean-css");
 const UglifyJS = require("uglify-es");
 const htmlmin = require("html-minifier");
 const eleventyNavigationPlugin = require("@11ty/eleventy-navigation");
+const Image = require("@11ty/eleventy-img");
+
+async function containerImage(src, alt) {
+  console.log("eleventy-img input:", `./static/img/${src}`);
+  let metadata = await Image(`./static/img/${src}`, {
+    widths: [1024],
+    formats: ["jpeg"],
+    outputDir: "./_site/static/img/opt/",
+    urlPath: "/static/img/opt/",
+    useCache: false,
+  });
+
+  let data = metadata.jpeg.pop();
+  console.log("eleventy-img output:", data.url);
+  return data && data.url ? `<figure class="image-container"><img src=${data.url} alt=""/></figure>` : '';
+}
+
+async function contentImageRt(src, alt, sizes) {
+  let metadata = await Image(`./static/img/${src}`, {
+    widths: [400, 800],
+    formats: ["jpeg"],
+    outputDir: "./_site/static/img/opt/",
+    urlPath: "/static/img/opt/",
+    useCache: false,
+  });
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+  return `<div class="rt">${Image.generateHTML(metadata, imageAttributes)}</div>`
+}
+
+async function contentImage(src, alt, sizes) {
+  let metadata = await Image(`./static/img/${src}`, {
+    widths: [1024],
+    formats: ["jpeg"],
+    outputDir: "./_site/static/img/opt/",
+    urlPath: "/static/img/opt/",
+    useCache: false,
+  });
+
+  let imageAttributes = {
+    alt,
+    sizes,
+    loading: "lazy",
+    decoding: "async",
+  };
+
+  // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
+  return `<div class="fsImage">${Image.generateHTML(metadata, imageAttributes)}<div class="caption">${alt}</div></div>`
+}
 
 module.exports = function(eleventyConfig) {
 
@@ -36,6 +92,15 @@ module.exports = function(eleventyConfig) {
       return coll;
     }, {});
   });
+
+  eleventyConfig.addShortcode("currentYear", function() {
+    const year = new Date().getFullYear();
+    return `${year}`;
+  });
+
+  eleventyConfig.addShortcode("containerImage", containerImage);
+  eleventyConfig.addShortcode("imageRt", contentImageRt);
+  eleventyConfig.addShortcode("image", contentImage);
 
   // Date formatting (human readable)
   eleventyConfig.addFilter("readableDate", dateObj => {

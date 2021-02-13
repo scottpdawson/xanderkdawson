@@ -3,6 +3,7 @@
   "version": "1.0.3",
   "description": "A boilerplate for building a fast static website with the Eleventy static site generator, for deployment to Netlify.",
   "scripts": {
+    "start": "npx eleventy --serve --quiet",
     "build": "npx eleventy",
     "watch": "npx eleventy --watch",
     "debug": "DEBUG=* npx eleventy"
@@ -29,6 +30,8 @@
   },
   "dependencies": {
     "@11ty/eleventy-navigation": "^0.1.6",
+    "@11ty/eleventy-img": "^0.7.4",
+    "@fortawesome/fontawesome-free": "^5.13.1",
     "clean-css": "^4.2.1",
     "html-minifier": "^4.0.0",
     "uglify-es": "^3.3.9"

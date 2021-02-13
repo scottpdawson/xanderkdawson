@@ -3,12 +3,13 @@
 
 	{% include "components/head.njk" %}
 
-	<body>
+	<body translate="no" >
 
-		<header>
-			<em>
-				<a href="{{ '/' | url }}">{{ metadata.title }}</a>
-			</em>
+		<header class="header">
+			<div class="avatar-lockup">
+				<div class="page-title">Xander Dawson</div>
+				<img src="/static/img/headshot.jpg" class="avatar" title="Xander Dawson" />
+			</div>
 			{% include "components/nav.njk" %}
 		</header>
 
