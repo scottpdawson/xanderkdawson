@@ -7,19 +7,19 @@ eleventyNavigation:
   order: 0
 ---
 <section class="section">
-    {% containerImage "sax.jpg" %}
+    {% containerImage "lugano_at_night.jpg" %}
     <article class="content">
 
-## Section Title
+## 👋 Hi! I'm Xander Dawson.
 
-{% imageRt "donald.jpg", "Donald Duck" %} 
+{% imageRt "xander_lugano.jpg", "On vacation in Lugano" %} 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget sapien a elit mattis aliquet. Donec dapibus pellentesque pharetra. Ut pellentesque metus a hendrerit gravida. Nullam suscipit iaculis iaculis. Nam ante est, rhoncus id magna in, mattis venenatis ante. Nulla vel massa in lorem suscipit vulputate et ac nulla. Integer libero lectus, posuere in fermentum eu, finibus vitae nunc. Nunc id sapien eu nisl scelerisque aliquam eget a magna. Ut pretium interdum rutrum. Maecenas congue quis arcu id dapibus. Morbi sit amet varius sapien.
+I’m an aspiring woodwind doubler, pianist, and vocalist currently in high school. I love playing music, and I love exploring new repertoire. I also love to run, act, and ski. I live in the town of Trumansburg, New York. I’m lucky to live in such a great region! There are some great trails and some amazing people. However, I hope to move to a metropolitan setting when I am older.
+
+I work at [Finger Lakes Running Company](https://www.fingerlakesrunningco.com/). I get to meet a ton of amazing people. I help people find running shoes and running gear to match their needs and their preferences. It is a great job and has taught me a lot about running! 
+
+One of my favorite things to do is spend time with my pet rabbit, [Phoebe](https://www.instagram.com/phoebe.the.bunny/)! We adopted her in 2018 from the [SPCA of Tompkins County](http://spcaonline.com/). She has been a great addition to our family! 
+
+I hope that this website helps you to learn more about me. If you have any questions, feel free to [contact me](/contact/).
 
 
-### Subsection Title
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget sapien a elit mattis aliquet. Donec dapibus pellentesque pharetra. Ut pellentesque metus a hendrerit gravida. Nullam suscipit iaculis iaculis. Nam ante est, rhoncus id magna in, mattis venenatis ante. Nulla vel massa in lorem suscipit vulputate et ac nulla. Integer libero lectus, posuere in fermentum eu, finibus vitae nunc. Nunc id sapien eu nisl scelerisque aliquam eget a magna. Ut pretium interdum rutrum. Maecenas congue quis arcu id dapibus. Morbi sit amet varius sapien.
-
-
-{% image "donald.jpg", "Donald Duck" %} 
