@@ -128,6 +128,10 @@ nav ul a:hover {
   height: 100vh;
 }
 
+iframe {
+  max-width: 100%;
+}
+
 footer {
   height: 250px;
   display: flex;
