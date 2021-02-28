@@ -67,6 +67,10 @@ h1 {
   text-align: center;
 }
 
+h2, h3 {
+  clear: both;
+}
+
 nav ul {
 	padding: 5px 0px;
 	margin: 0;

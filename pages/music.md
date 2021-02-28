@@ -1,6 +1,6 @@
 ---
 title: Music
-metaDescription: Description goes here
+metaDescription: I started my musical journey at age 5 when I started to play the piano! I play piano, saxophone, clarinet, and flute, and sing.
 permalink: /music/
 eleventyNavigation:
   key: Music
@@ -42,35 +42,7 @@ I’ve been inspired by so many amazing individuals in the music community. I lo
 
 I love to name my instruments (no, I’m not crazy). I feel like each instrument has its own personality! Therefore, each instrument deserves its own name. Here are the names of my instruments!
 
-<table>
-  <thead>
-    <th>Instrument</th>
-    <th>Model</th>
-    <th>Name</th>
-  </thead>
-  <tbody>
-    <td>Flute</td>
-    <td>Yamaha 462</td>
-    <td>Felix</td>
-  </tbody>
-</table>
-
-At the end of 2019, I was looking to get my own flute. I had been playing on a school issued flute for about a year and a half, and decided that I wanted to have an instrument that I could call my own. I went to Atlas Music where I was able to try out a ton of different flutes. On the car ride home, I decided that Felix would be the perfect name for my flute! I love the instrument so much, and have loved learning about the instrument! 
-
-<table>
-  <thead>
-    <th>Instrument</th>
-    <th>Model</th>
-    <th>Name</th>
-  </thead>
-  <tbody>
-    <td>Clarinet</td>
-    <td>?</td>
-    <td>Clari</td>
-  </tbody>
-</table>
-
-Clari is my newest double! I’ve had a lot of fun playing this instrument! I am looking forward to learning more about the instrument and to learning more repertoire. 
+### Claudia 
 
 <table>
   <thead>
@@ -85,7 +57,49 @@ Clari is my newest double! I’ve had a lot of fun playing this instrument! I am
   </tbody>
 </table>
 
+{% imageRt "sax_in_group.jpg", "Crane School of Music" %} 
+
 I LOVE this saxophone so much! I bought it during my freshman year of high school, and have really enjoyed playing it! I also play with the Vandoren Optimum mouthpiece, and with a Silverstein CRY04 ligature.
+
+### Felix 
+
+<table>
+  <thead>
+    <th>Instrument</th>
+    <th>Model</th>
+    <th>Name</th>
+  </thead>
+  <tbody>
+    <td>Flute</td>
+    <td>Yamaha 462</td>
+    <td>Felix</td>
+  </tbody>
+</table>
+
+{% imageRt "sax_in_group.jpg", "Crane School of Music" %} 
+
+At the end of 2019, I was looking to get my own flute. I had been playing on a school issued flute for about a year and a half, and decided that I wanted to have an instrument that I could call my own. I went to Atlas Music where I was able to try out a ton of different flutes. On the car ride home, I decided that Felix would be the perfect name for my flute! I love the instrument so much, and have loved learning about the instrument! 
+
+### Clari
+
+<table>
+  <thead>
+    <th>Instrument</th>
+    <th>Model</th>
+    <th>Name</th>
+  </thead>
+  <tbody>
+    <td>Clarinet</td>
+    <td>Buffet B12</td>
+    <td>Clari</td>
+  </tbody>
+</table>
+
+{% imageRt "sax_in_group.jpg", "Crane School of Music" %} 
+
+Clari is my newest double! I’ve had a lot of fun playing this instrument! I am looking forward to learning more about the instrument and to learning more repertoire. 
+
+### Sforzando
 
 <table>
   <thead>
@@ -96,16 +110,18 @@ I LOVE this saxophone so much! I bought it during my freshman year of high schoo
   <tbody>
     <td>Piano</td>
     <td>1941 Steinway Model S</td>
-    <td>?</td>
+    <td>Sforzando</td>
   </tbody>
 </table>
 
 I learned to play piano on an upright we had borrowed from my grandparents. In 2016, my parents bought a [1941 Steinway Model S](https://www.steinway.com/pianos/steinway/grand/model-s). 
 
+{% image "sax_in_group.jpg", "Crane School of Music" %} 
+
   </article>
 </section>
 <section class="section">
-    {% containerImage "hear_me_play.jpg" %}
+    {% containerImage "xander_flute_atlas.jpg" %}
     <article class="content">
 
 ## Hear Me Play

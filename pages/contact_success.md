@@ -5,12 +5,11 @@ metaDescription: "Thanks for getting in touch with me."
 ---
 
 <section class="section">
-    {% containerImage "cocoa.jpg" %}
+    {% containerImage "contact_success.jpg" %}
     <article class="content">
 
-## Thanks for getting in touch
+## Thanks for getting in touch!
 
 {% imageRt "cocoa.jpg", "Hot Cocoa in Winter" %} 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum eget sapien a elit mattis aliquet. Donec dapibus pellentesque pharetra. Ut pellentesque metus a hendrerit gravida. Nullam suscipit iaculis iaculis. Nam ante est, rhoncus id magna in, mattis venenatis ante. Nulla vel massa in lorem suscipit vulputate et ac nulla. Integer libero lectus, posuere in fermentum eu, finibus vitae nunc. Nunc id sapien eu nisl scelerisque aliquam eget a magna. Ut pretium interdum rutrum. Maecenas congue quis arcu id dapibus. Morbi sit amet varius sapien.
-
+Thank you for sending me a note! I'll get on it as soon as I can, but in the meantime, here's some holiday cheer for you. It's fun, any time of the year! 

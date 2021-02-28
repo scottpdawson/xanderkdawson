@@ -1,7 +1,7 @@
 ---
 layout: layouts/contact.njk
 title: Get in touch
-metaDescription: Description goes here
+metaDescription: I'm glad you want to get in touch. Fill out this form and I'll get back to you as soon as I can! 
 permalink: /contact/
 eleventyNavigation:
   key: Contact
@@ -9,9 +9,9 @@ eleventyNavigation:
 ---
 
 <section class="section">
-    {% containerImage "venice.jpg" %}
+    {% containerImage "matterhorn.jpg" %}
     <article class="content">
     
 ## Contact Me
 
-Intro text for contact me, along with picture floated right 
+Great! I'm glad you want to get in touch. Fill out this form and I'll get back to you as soon as I can! 
