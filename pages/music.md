@@ -18,6 +18,7 @@ I started my musical journey at age 5 when I started to play the piano! I loved 
 At age eleven, I started to play the saxophone! I instantly fell in love with the instrument! I was lucky to be able to study under the instruction of many amazing teachers. I’ve studied with [Jennifer Henion](https://www.ithaca.edu/staff/jhenion), Kelsey Melvin, and currently study with [Colin Gordon](http://colingordonmusic.com/). I’ve been able to play through some great saxophone standards, including
 
 * _Concerto_ by _Alexander Glazunov_
+* _Scaramouche_ by _Darius Milhaud_
 * _Diversion_ by _Bernhard Heiden_
 * _Sonata_ by _Bernhard Heiden_
 * _Aria_ by _Eugène Bozza_
