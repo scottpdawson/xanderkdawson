@@ -62,6 +62,11 @@ I love to name my instruments (no, I’m not crazy). I feel like each instrument
 
 I LOVE this saxophone so much! I bought it during my freshman year of high school, and have really enjoyed playing it! I also play with the Vandoren Optimum mouthpiece, and with a Silverstein CRY04 ligature.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wIIPfMCmtSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8LHkUOelm5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ### Felix 
 
 <table>
@@ -80,6 +85,8 @@ I LOVE this saxophone so much! I bought it during my freshman year of high schoo
 {% imageRt "flute_playing.jpg", "Flute" %} 
 
 At the end of 2019, I was looking to get my own flute. I had been playing on a school issued flute for about a year and a half, and decided that I wanted to have an instrument that I could call my own. I went to Atlas Music where I was able to try out a ton of different flutes. On the car ride home, I decided that Felix would be the perfect name for my flute! I love the instrument so much, and have loved learning about the instrument! 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LQSnut3iz6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Clari
 
@@ -118,6 +125,10 @@ Clari is my newest double! I’ve had a lot of fun playing this instrument! I am
 I learned to play piano on an upright we had borrowed from my grandparents. In 2016, my parents bought a [1941 Steinway Model S](https://www.steinway.com/pianos/steinway/grand/model-s). 
 
 {% image "piano.jpg", "At home on my family's piano" %} 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NpHRHrt-lpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GfhnkyXkUP4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   </article>
 </section>
