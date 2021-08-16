@@ -138,7 +138,17 @@ I learned to play piano on an upright we had borrowed from my grandparents. In 2
 
 ## Hear Me Play
 
-I love writing original music and arrangements. One of my favorite original songs is titled _A Distant Memory_. I was experimenting with different chord progressions, and came across the progression that I used for this song. It used lots of suspensions and had such a distinctive and magical sound to it. Once I had the progression, I started to write the melody in! Once, I had finished, I realized that I had spent the last week composing nonstop. However, it was totally worth it! After I was finished writing it, I recorded all of the parts! Overall, I had a great time writing and recording this.
+I love writing original music and arrangements. Here are a few of my featured pieces:
+
+### Disney Villains Medley
+
+This piece combines three of my favorite Disney villain songs into a fun medley! The three songs featured are “Be Prepared”, “Friends on the Other Side”, and “Poor Unfortunate Souls”. I had so much fun arranging, performing, and editing this. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fEtENeMrq6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### A Distant Memory
+
+One of my favorite original songs is titled _A Distant Memory_. I was experimenting with different chord progressions, and came across the progression that I used for this song. It used lots of suspensions and had such a distinctive and magical sound to it. Once I had the progression, I started to write the melody in! Once, I had finished, I realized that I had spent the last week composing nonstop. However, it was totally worth it! After I was finished writing it, I recorded all of the parts! Overall, I had a great time writing and recording this.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kX5qIVHMEAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
