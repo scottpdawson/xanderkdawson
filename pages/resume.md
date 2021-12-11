@@ -11,6 +11,7 @@ eleventyNavigation:
     {% containerImage "sax_schematic.jpg" %}
     <article class="content" style="text-align: center; top: -50vh; margin-bottom: -50vh; background: transparent">
 
-<a href="/static/pdf/music_resume.pdf"><img src="/static/pdf/resume.png" style="max-width: 100%; border-radius: 10px"></a>
+<iframe height="1000" width="100%" src="/static/pdf/music_resume.pdf"></iframe>
+
 <br />
 <a href="/static/pdf/music_resume.pdf" class="button">Download my Music Résumé</a>
