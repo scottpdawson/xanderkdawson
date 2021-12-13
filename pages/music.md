@@ -13,25 +13,27 @@ eleventyNavigation:
 
 ## Music
 
-I started my musical journey at age 5 when I started to play the piano! I loved the piano and the way that it produced sound. Next, I started taking voice lessons. Focusing on how to produce a healthy vocal tone helped set the foundation for my singing, as well as my instrumental playing. I started using the movable-do solfège system when I started lessons which gave me a whole new perspective of the music that I listened to. 
+I started my musical journey at age 5 when I started to play the piano! I loved the piano and the way that it produced sound. Next, I started taking voice lessons. Focusing on how to produce a healthy vocal tone helped set the foundation for my singing, as well as my instrumental playing. I started using the movable-do solfège system when I started lessons which gave me a whole new perspective of the music that I listened to.
 
 At age eleven, I started to play the saxophone! I instantly fell in love with the instrument! I was lucky to be able to study under the instruction of many amazing teachers. I’ve studied with [Jennifer Henion](https://www.ithaca.edu/staff/jhenion), Kelsey Melvin, and currently study with [Colin Gordon](http://colingordonmusic.com/). I’ve been able to play through some great saxophone standards, including
 
-* _Concerto_ by _Alexander Glazunov_
-* _Scaramouche_ by _Darius Milhaud_
-* _Diversion_ by _Bernhard Heiden_
-* _Sonata_ by _Bernhard Heiden_
-* _Aria_ by _Eugène Bozza_
+- _Concerto_ by _Alexander Glazunov_
+- _Sonata_ by _Paul Creston_
+- _Tableaux de Provence_ by _Paule Maurice_
+- _Scaramouche_ by _Darius Milhaud_
+- _Diversion_ by _Bernhard Heiden_
+- _Sonata_ by _Bernhard Heiden_
+- _Aria_ by _Eugène Bozza_
 
-I also play the clarinet and flute. Learning and practicing both of these instruments has been a fabulous opportunity for me to work on woodwind doubling! I’ve been able to play in the pit bands of Chitty Chitty Bang Bang and Honk! Playing for these shows has been a great experience for me! I hope to learn even more about these instruments and to get to play with more fantastic musicians! 
+I also play the clarinet and flute. Learning and practicing both of these instruments has been a fabulous opportunity for me to work on woodwind doubling! I’ve been able to play in the pit bands of Chitty Chitty Bang Bang and Honk! Playing for these shows has been a great experience for me! I hope to learn even more about these instruments and to get to play with more fantastic musicians!
 
-{% imageRt "sax_in_group.jpg", "Crane School of Music" %} 
+{% imageRt "sax_in_group.jpg", "Crane School of Music" %}
 
-I also am taking courses with [Berklee Online](https://online.berklee.edu/)! This has been a great experience for me! I've been able to study music with individuals all over the world! It has been so interesting to hear about everyone's musical journey as part of these courses. So far, I have completed **Music Theory 101**, **Music Theory 201**, **Music Business 101**, and **Ear Training 1**. I am in the middle of pursuing a certificate in [Professional General Music Studies](https://online.berklee.edu/certificates/general-music-studies-professional) and another certificate in [Advanced Professional Theory, Harmony, and Ear Training](https://online.berklee.edu/certificates/theory-harmony-ear-training-advanced-professional). It has been great to have these certificates to work towards. Up next for me is, **Music Theory 301**, **Getting inside Harmony 2**, and **Harmonic Ear Training: Recognizing Chord Progressions**.
+I have been a student of [Berklee Online](https://online.berklee.edu/) since 2020. I've been able to study music with individuals all over the world! It has been so interesting to hear about everyone's musical journey as part of these courses. In 2021, I earned a certificate in [Professional General Music Studies](https://online.berklee.edu/certificates/general-music-studies-professional) and another certificate in [Advanced Professional Theory, Harmony, and Ear Training](https://online.berklee.edu/certificates/theory-harmony-ear-training-advanced-professional).
 
 When the pandemic hit, I started to make saxophone multitrack videos. I had so much fun with [my first video](https://www.youtube.com/watch?v=1f0eIEh81dM), so I ended up making [many more](https://www.youtube.com/channel/UCPfyuV99V6vOAUSYS7VrwZw/videos). I’ve enjoyed exploring the technological side of music production, and I can’t wait to explore it more! I use [Final Cut Pro](https://www.apple.com/final-cut-pro/) for my video editing and [GarageBand](https://www.apple.com/mac/garageband/) for my audio editing.
 
-I’ve been inspired by so many amazing individuals in the music community. I love listening to many of the jazz greats such as Charlie Parker, Sonny Rollins, John Coltrane, and more! I also love listening to classical music standards, as well as more contemporary music. Broadway music also holds a soft spot in my heart! One of my goals is to be able to play professionally in a Broadway pit band.
+I’ve been inspired by so many amazing individuals in the music community. I love listening to many of the jazz greats such as Charlie Parker, Sonny Rollins, John Coltrane, Johnny Hodges, and more! I also love listening to classical music standards, as well as more contemporary music. Broadway music also holds a soft spot in my heart! One of my goals is to be able to play professionally in a Broadway pit band.
 
   </article>
 </section>
@@ -41,9 +43,9 @@ I’ve been inspired by so many amazing individuals in the music community. I lo
 
 ## Meet My Instruments
 
-I love to name my instruments (no, I’m not crazy). I feel like each instrument has its own personality! Therefore, each instrument deserves its own name. Here are the names of my instruments!
+I love to name my instruments (no, I’m not crazy). I feel like each instrument has its own personality! Therefore, each instrument deserves its own name. Here are the names of my instruments:
 
-### Claudia 
+### Claudia
 
 <table>
   <thead>
@@ -58,7 +60,7 @@ I love to name my instruments (no, I’m not crazy). I feel like each instrument
   </tbody>
 </table>
 
-{% imageRt "saxophone.jpg", "Saxophone" %} 
+{% imageRt "saxophone.jpg", "Saxophone" %}
 
 I LOVE this saxophone so much! I bought it during my freshman year of high school, and have really enjoyed playing it! I also play with the Vandoren Optimum mouthpiece, and with a Silverstein CRY04 ligature.
 
@@ -66,8 +68,7 @@ I LOVE this saxophone so much! I bought it during my freshman year of high schoo
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8LHkUOelm5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-### Felix 
+### Felix
 
 <table>
   <thead>
@@ -82,9 +83,9 @@ I LOVE this saxophone so much! I bought it during my freshman year of high schoo
   </tbody>
 </table>
 
-{% imageRt "flute_playing.jpg", "Flute" %} 
+{% imageRt "flute_playing.jpg", "Flute" %}
 
-At the end of 2019, I was looking to get my own flute. I had been playing on a school issued flute for about a year and a half, and decided that I wanted to have an instrument that I could call my own. I went to Atlas Music where I was able to try out a ton of different flutes. On the car ride home, I decided that Felix would be the perfect name for my flute! I love the instrument so much, and have loved learning about the instrument! 
+At the end of 2019, I was looking to get my own flute. I had been playing on a school issued flute for about a year and a half, and decided that I wanted to have an instrument that I could call my own. I went to Atlas Music where I was able to try out a ton of different flutes. On the car ride home, I decided that Felix would be the perfect name for my flute! I love the instrument so much, and have loved learning about the instrument!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LQSnut3iz6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -103,9 +104,9 @@ At the end of 2019, I was looking to get my own flute. I had been playing on a s
   </tbody>
 </table>
 
-{% imageRt "clarinet.jpg", "Clarinet" %} 
+{% imageRt "clarinet.jpg", "Clarinet" %}
 
-Clari is my newest double! I’ve had a lot of fun playing this instrument! I am looking forward to learning more about the instrument and to learning more repertoire. 
+Clari is my newest double! I’ve had a lot of fun playing this instrument! I am looking forward to learning more about the instrument and to learning more repertoire.
 
 ### Sforzando
 
@@ -122,9 +123,9 @@ Clari is my newest double! I’ve had a lot of fun playing this instrument! I am
   </tbody>
 </table>
 
-I learned to play piano on an upright we had borrowed from my grandparents. In 2016, my parents bought a [1941 Steinway Model S](https://www.steinway.com/pianos/steinway/grand/model-s). 
+I learned to play piano on an upright we had borrowed from my grandparents. In 2016, my parents bought a [1941 Steinway Model S](https://www.steinway.com/pianos/steinway/grand/model-s).
 
-{% image "piano.jpg", "At home on my family's piano" %} 
+{% image "piano.jpg", "At home on my family's piano" %}
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NpHRHrt-lpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -142,9 +143,15 @@ I love writing original music and arrangements. Here are a few of my featured pi
 
 ### Disney Villains Medley
 
-This piece combines three of my favorite Disney villain songs into a fun medley! The three songs featured are “Be Prepared”, “Friends on the Other Side”, and “Poor Unfortunate Souls”. I had so much fun arranging, performing, and editing this. 
+This piece combines three of my favorite Disney villain songs into a fun medley! The three songs featured are “Be Prepared”, “Friends on the Other Side”, and “Poor Unfortunate Souls”. I had so much fun arranging, performing, and editing this.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fEtENeMrq6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### The Great Pumpkin Waltz (Vince Guaraldi Cover)
+
+This is an arrangement that I wrote of The Great Pumpkin Waltz. Saxophone, piano, flute, and clarinet performed by Xander Dawson. Drums performed by Nate Wilson.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cbzu8RvuEOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### A Distant Memory
 
