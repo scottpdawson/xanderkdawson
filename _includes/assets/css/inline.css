@@ -260,7 +260,7 @@ h3 {
 
 .content {
   position: relative;
-  margin: -50vh auto 0;
+  margin: -85vh auto 0;
   padding: var(--space);
   max-width: 80vw;
   width: calc(100% - var(--space));
@@ -456,5 +456,8 @@ table th {
     height: auto !important;
     margin: 0 auto;
     display: block;
+  }
+  .resume-frame {
+    display: none;
   }
 }

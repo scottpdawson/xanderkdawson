@@ -11,6 +11,10 @@ eleventyNavigation:
     {% containerImage "lugano_at_night.jpg" %}
     <article class="content">
 
+## Xander Dawson
+
+### Saxophonist | Woodwind Doubler | Arranger
+
 Xander Dawson is a saxophonist, woodwind doubler, composer, and arranger residing in upstate New York. He started to play the saxophone at age ten, and since then, he has studied styles of music ranging from jazz to classical. In addition to the saxophone, he plays the flute, clarinet, piano, and is a vocalist. He has played in pit orchestras as a woodwind doubler on multiple woodwind instruments.
 
 Throughout high school, Xander has been able to play and gig with local musicians in pit orchestras, bands, and honor ensembles. One of his most recent and notable performances was performing at the New York All-State Music Festival as the principal alto saxophonist. He is also the lead alto saxophonist of the Charles O. Dickerson Jazz Ensemble and the principal saxophonist of the Charles O. Dickerson Concert Band. As a woodwind doubler, he has played with theatre companies in the Finger Lakes Region, most notably with the [Running to Places Theatre Company](https://www.runningtoplaces.org/) and [Encore Players Community Theatre](https://encoreplayers.org/).

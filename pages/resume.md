@@ -9,9 +9,9 @@ eleventyNavigation:
 
 <section class="section">
     {% containerImage "sax_schematic.jpg" %}
-    <article class="content" style="text-align: center; top: -50vh; margin-bottom: -50vh; background: transparent">
+    <article class="content" style="text-align: center; top: -10vh; margin-bottom: -50vh; background: transparent">
 
-<iframe height="1000" width="100%" src="/static/pdf/music_resume.pdf"></iframe>
+<iframe class="resume-frame" height="1000" width="100%" src="/static/pdf/music_resume.pdf"></iframe>
 
 <br />
 <a href="/static/pdf/music_resume.pdf" class="button">Download my Music Résumé</a>
