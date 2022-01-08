@@ -416,7 +416,7 @@ table th {
   font-size: 0.85em;
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 1000px) {
   .video-grid {
     display: block;
   }
@@ -429,6 +429,8 @@ table th {
     border-radius: 10px;
     border: 1px solid #ffffff33;
   }
+}
+@media screen and (max-width: 800px) {
   nav ul a {
     padding: 8px;
   }
