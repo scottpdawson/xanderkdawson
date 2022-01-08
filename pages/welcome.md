@@ -6,20 +6,17 @@ eleventyNavigation:
   key: Welcome
   order: 0
 ---
+
 <section class="section">
     {% containerImage "lugano_at_night.jpg" %}
     <article class="content">
 
-## 👋 Hi! I'm Xander Dawson.
+Xander Dawson is a saxophonist, woodwind doubler, composer, and arranger residing in upstate New York. He started to play the saxophone at age ten, and since then, he has studied styles of music ranging from jazz to classical. In addition to the saxophone, he plays the flute, clarinet, piano, and is a vocalist. He has played in pit orchestras as a woodwind doubler on multiple woodwind instruments.
 
-{% imageRt "xander_lugano.jpg", "On vacation in Lugano" %} 
+Throughout high school, Xander has been able to play and gig with local musicians in pit orchestras, bands, and honor ensembles. One of his most recent and notable performances was performing at the New York All-State Music Festival as the principal alto saxophonist. He is also the lead alto saxophonist of the Charles O. Dickerson Jazz Ensemble and the principal saxophonist of the Charles O. Dickerson Concert Band. As a woodwind doubler, he has played with theatre companies in the Finger Lakes Region, most notably with the [Running to Places Theatre Company](https://www.runningtoplaces.org/) and [Encore Players Community Theatre](https://encoreplayers.org/).
 
-I’m an aspiring woodwind doubler, pianist, and vocalist currently in high school. I love playing music, and I love exploring new repertoire. I also love to run, act, and ski. I live in the town of Trumansburg, New York. I’m lucky to live in such a great region! There are some great trails and some amazing people. However, I hope to move to a metropolitan setting when I am older.
+He has earned two certificates through [Berklee Online](https://online.berklee.edu/). He holds a [Professional Certificate in General Music Studies](https://online.berklee.edu/certificates/general-music-studies-professional) and an [Advanced Professional Certificate in Music Theory, Harmony, and Ear Training](https://online.berklee.edu/certificates/theory-harmony-ear-training-advanced-professional). He was also the recipient of the Berklee Online Celebrity Scholarship in 2020.
 
-I work at [Finger Lakes Running Company](https://www.fingerlakesrunningco.com/). I get to meet a ton of amazing people. I help people find running shoes and running gear to match their needs and their preferences. It is a great job and has taught me a lot about running! 
+Outside of music, he is a sales associate at [Finger Lakes Running Company](https://www.fingerlakesrunningco.com/), a specialty running store in upstate New York. He is passionate about running and fitness and enjoys running local races.
 
-One of my favorite things to do is spend time with my pet rabbit, [Phoebe](https://www.instagram.com/phoebe.the.bunny/)! We adopted her in 2019 from the [SPCA of Tompkins County](http://spcaonline.com/). She has been a great addition to our family! 
-
-I hope that this website helps you to learn more about me. If you have any questions, feel free to [contact me](/contact/).
-
-
+Xander is available as a woodwind doubler, session musician, composer, and arranger. Feel free to [get in touch](/contact/) for any inquiries.

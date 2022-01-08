@@ -1,33 +1,36 @@
-@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer&family=EB+Garamond&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer&family=EB+Garamond&display=swap");
 
 :root {
-	--primary: blue;
-	--secondary: white;
-	--background: #FFF0EB;
-	--scale: 0.1;
-	--space: 10vmin;
-  --title-font: 'IM Fell Great Primer', serif;
-	--font-primary: 'EB Garamond', serif;
-	--font-heading: 'IM Fell Great Primer', serif;
+  --primary: blue;
+  --secondary: white;
+  --background: #fff0eb;
+  --scale: 0.1;
+  --space: 10vmin;
+  --title-font: "IM Fell Great Primer", serif;
+  --font-primary: "EB Garamond", serif;
+  --font-heading: "IM Fell Great Primer", serif;
   --accent-color: rgb(0 114 255);
 }
 
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: border-box;
 }
 
 html,
 body {
-	padding: 0;
-	margin: 0;
-	font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+  font-family: "Avenir", "Avenir Next", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Helvetica, Arial, sans-serif;
 }
 
 body {
-	display: grid;
-	height: 100vh;
-	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
+  display: grid;
+  height: 100vh;
+  grid-template-rows: auto 1fr auto;
+  background-color: var(--background);
 }
 
 @media (prefers-reduced-motion) {
@@ -42,7 +45,7 @@ body {
 
 body {
   color: hsl(0, 0%, 95%);
-  background-color: hsl(0,0,0);
+  background-color: hsl(0, 0, 0);
   font-size: clamp(1.2rem, 5vw, 1.5rem);
   font-family: var(--font-primary);
   line-height: 1.6;
@@ -59,7 +62,8 @@ a:focus {
   text-decoration: underline;
 }
 
-h1, nav {
+h1,
+nav {
   z-index: 1;
 }
 
@@ -67,27 +71,28 @@ h1 {
   text-align: center;
 }
 
-h2, h3 {
+h2,
+h3 {
   clear: both;
 }
 
 nav ul {
-	padding: 5px 0px;
-	margin: 0;
-	list-style: none;
-	text-align: center;
+  padding: 5px 0px;
+  margin: 0;
+  list-style: none;
+  text-align: center;
 }
 nav ul > * {
-	margin: 4px 2px 6px 2px;
+  margin: 4px 2px 6px 2px;
   display: inline-block;
 }
 nav ul a {
   text-align: center;
   text-decoration: none;
   color: white;
-  font-size: .85em;
+  font-size: 0.85em;
   padding: 10px 15px;
-  transition: all .4s;
+  transition: all 0.4s;
 }
 nav ul a.active {
   border-bottom: 3px solid var(--accent-color);
@@ -140,7 +145,8 @@ footer {
   border-top: 10px solid black;
 }
 
-footer a, button {
+footer a,
+button {
   text-decoration: none;
   background: white;
   width: 50px;
@@ -150,24 +156,26 @@ footer a, button {
   align-items: center;
   justify-content: center;
   color: var(--accent-color);
-  margin: 0 .3em;
-  transition: all .3s;
+  margin: 0 0.3em;
+  transition: all 0.3s;
   box-shadow: 0px 3px 13px var(--accent-color);
 }
 
-button, .button {
+button,
+.button {
   margin: 0 auto;
   background: var(--accent-color);
   min-width: 200px;
   border: 0;
-  font-size: .85em;
+  font-size: 0.85em;
   border-radius: 40px;
   box-shadow: none;
   color: white;
-  padding: .5em 1.2em;
+  padding: 0.5em 1.2em;
 }
 
-button:hover, .button:hover {
+button:hover,
+.button:hover {
   box-shadow: 0px 3px 13px var(--accent-color);
   cursor: pointer;
   text-decoration: none;
@@ -184,31 +192,44 @@ footer a:hover {
 }
 
 footer a.yt:hover {
-  color: #FB0006;
+  color: #fb0006;
   box-shadow: none;
 }
 
 footer a.ig:hover {
-  background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%); 
+  background: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
   color: white;
 }
 
 footer a.tw:hover {
-  color: #1D8DEE;
+  color: #1d8dee;
 }
 
 footer a.fb:hover {
-  background: linear-gradient(0deg, #094ADA 0%,#1B9CFD 100%); 
+  background: linear-gradient(0deg, #094ada 0%, #1b9cfd 100%);
   color: white;
 }
 
-.header, footer {    
-  position: relative; 
+.header,
+footer {
+  position: relative;
   height: 370px;
   width: 100%;
   align-items: center;
   justify-content: center;
-  background-image: linear-gradient(to bottom,rgba(0,0,0,0),rgb(0 17 101 / 50%)),url(/static/img/sax_schematic.jpg);
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0),
+      rgb(0 17 101 / 50%)
+    ),
+    url(/static/img/sax_schematic.jpg);
   background-size: cover;
   background-position: center center;
   border-bottom: 10px solid black;
@@ -224,16 +245,17 @@ footer a.fb:hover {
   transform: scaleY(calc(1 / (1 - var(--scale))));
 }
 
-h2, h3 {
+h2,
+h3 {
   font-family: var(--font-heading);
-  font-size: clamp(2.5rem,6vw,3.5rem);
+  font-size: clamp(2.5rem, 6vw, 3.5rem);
   line-height: 1.125;
   margin: 0;
   position: relative;
 }
 
 h3 {
-  font-size: clamp(1.5rem,4vw,2.5rem);
+  font-size: clamp(1.5rem, 4vw, 2.5rem);
 }
 
 .content {
@@ -268,11 +290,11 @@ h3 {
   width: 100%;
   height: 100%;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
 }
 
 .image-container::after {
-  content: '';
+  content: "";
   position: absolute;
   bottom: 0;
   left: 0;
@@ -280,22 +302,22 @@ h3 {
   height: 50%;
   background: linear-gradient(
     to bottom,
-    hsla(0,0,0, 0) 0%,
-    hsla(0,0,0, 0.013) 8.1%,
-    hsla(0,0,0, 0.049) 15.5%,
-    hsla(0,0,0, 0.104) 22.5%,
-    hsla(0,0,0, 0.175) 29%,
-    hsla(0,0,0, 0.259) 35.3%,
-    hsla(0,0,0, 0.352) 41.2%,
-    hsla(0,0,0, 0.45) 47.1%,
-    hsla(0,0,0, 0.55) 52.9%,
-    hsla(0,0,0, 0.648) 58.8%,
-    hsla(0,0,0, 0.741) 64.7%,
-    hsla(0,0,0, 0.825) 71%,
-    hsla(0,0,0, 0.896) 77.5%,
-    hsla(0,0,0, 0.951) 84.5%,
-    hsla(0,0,0, 0.987) 91.9%,
-    hsl(0,0,0) 100%
+    hsla(0, 0, 0, 0) 0%,
+    hsla(0, 0, 0, 0.013) 8.1%,
+    hsla(0, 0, 0, 0.049) 15.5%,
+    hsla(0, 0, 0, 0.104) 22.5%,
+    hsla(0, 0, 0, 0.175) 29%,
+    hsla(0, 0, 0, 0.259) 35.3%,
+    hsla(0, 0, 0, 0.352) 41.2%,
+    hsla(0, 0, 0, 0.45) 47.1%,
+    hsla(0, 0, 0, 0.55) 52.9%,
+    hsla(0, 0, 0, 0.648) 58.8%,
+    hsla(0, 0, 0, 0.741) 64.7%,
+    hsla(0, 0, 0, 0.825) 71%,
+    hsla(0, 0, 0, 0.896) 77.5%,
+    hsla(0, 0, 0, 0.951) 84.5%,
+    hsla(0, 0, 0, 0.987) 91.9%,
+    hsl(0, 0, 0) 100%
   );
 }
 
@@ -307,7 +329,7 @@ h3 {
 /* Contact Form */
 form {
   display: grid;
-	padding: 2em 0;
+  padding: 2em 0;
 }
 
 form label {
@@ -322,8 +344,8 @@ textarea {
   font-size: 1rem;
   border: 1px solid #ffffff;
   background: #ffffff33;
-    color: white;
-	border-radius: 10px;
+  color: white;
+  border-radius: 10px;
 }
 article .rt {
   float: right;
@@ -344,14 +366,15 @@ article .fsImage img {
 article .fsImage .caption {
   text-align: center;
   font-style: italic;
-  margin: .5em;
+  margin: 0.5em;
 }
 
 table {
   width: 100%;
   border-collapse: collapse;
 }
-table th, table td {
+table th,
+table td {
   border: 1px solid var(--accent-color);
   text-align: center;
   width: 33%;
@@ -359,27 +382,68 @@ table th, table td {
 table th {
   background-color: var(--accent-color);
   color: white;
-  font-size: .7em;
+  font-size: 0.7em;
   text-transform: uppercase;
   border-bottom: 3px solid white;
 }
 
+.video-grid {
+  display: flex;
+}
+.video {
+  flex: 1;
+  border: 1px solid #ffffff33;
+  padding: 1em;
+}
+.video:first-child {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  border-right: none;
+}
+.video:last-child {
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-left: none;
+}
+.video iframe {
+  border-radius: 10px;
+}
+.video h3 {
+  font-size: clamp(1.5rem, 1.6vw, 2.5rem);
+  margin-bottom: 0.5em;
+}
+.video p {
+  font-size: 0.85em;
+}
+
 @media screen and (max-width: 800px) {
-	nav ul a {
+  .video-grid {
+    display: block;
+  }
+  .video {
+    margin-bottom: 1em;
+  }
+  .video:first-child,
+  .video:last-child,
+  .video {
+    border-radius: 10px;
+    border: 1px solid #ffffff33;
+  }
+  nav ul a {
     padding: 8px;
   }
   .content {
-    padding: calc(var(--space)/2);
+    padding: calc(var(--space) / 2);
     max-width: 98vw;
   }
   article .rt {
-		float: none;
-		margin: 0 auto;
-		text-align: center;
+    float: none;
+    margin: 0 auto;
+    text-align: center;
     width: 100%;
     margin-top: 1em;
     transform: none;
-	}
+  }
 
   article img {
     border: 5px solid white;
