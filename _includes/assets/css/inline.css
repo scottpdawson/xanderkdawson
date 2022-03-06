@@ -352,6 +352,11 @@ article .rt {
   margin-left: 2em;
   transform: rotate(2deg);
 }
+article .lt {
+  float: left;
+  margin-right: 2em;
+  transform: rotate(-2deg);
+}
 article img {
   border: 15px solid white;
 }
@@ -438,7 +443,8 @@ table th {
     padding: calc(var(--space) / 2);
     max-width: 98vw;
   }
-  article .rt {
+  article .rt,
+  article .lt {
     float: none;
     margin: 0 auto;
     text-align: center;
@@ -451,7 +457,8 @@ table th {
     border: 5px solid white;
   }
 
-  article .rt img {
+  article .rt img,
+  article .lt img {
     max-width: 100% !important;
     height: auto !important;
     margin: 0 auto;

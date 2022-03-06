@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 
 <section class="section">
-    {% containerImage "lugano_at_night.jpg" %}
+    {% containerImage "nyssma-all-state.jpg" %}
     <article class="content">
 
 ## Xander Dawson

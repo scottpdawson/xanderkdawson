@@ -13,6 +13,23 @@ eleventyNavigation:
 
 ## Hear Me Play
 
+### Featured Works
+
+<div class="video-grid">
+  <div class="video">
+    <h3>Berbiguier Étude 1</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/-VXb03ZxEE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>This is my performance of étude 1 from the 18 exercises or études by Berbiguier.</p>
+  </div>
+  <div class="video">
+    <h3>Indie Film Contest</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/jfeoLomVH_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>I was selected as a finalist in the 2021 <a href="https://indiefilmmusiccontest.com/">Indie Film Contest</a>. I scored this original film created by Jake Wegesin.</p>
+  </div>
+</div>
+
+### Woodwind Arrangements
+
 I love writing original music and arrangements. Here are a few of my featured pieces:
 
 <div class="video-grid">
@@ -24,7 +41,7 @@ I love writing original music and arrangements. Here are a few of my featured pi
   <div class="video">
     <h3>The Great Pumpkin Waltz</h3>
     <iframe width="100%" height="200" src="https://www.youtube.com/embed/Cbzu8RvuEOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>This is an cover arrangement I wrote of Vince Guaraldi's <i>The Great Pumpkin Waltz</i>. Saxophone, piano, flute, and clarinet performed by Xander Dawson. Drums performed by Nate Wilson.</p>
+    <p>This is a cover I wrote of Vince Guaraldi's <i>The Great Pumpkin Waltz</i>. Saxophone, piano, flute, and clarinet performed by Xander Dawson. Drums performed by Nate Wilson.</p>
   </div>
   <div class="video">
     <h3>A Distant Memory</h3>
@@ -48,6 +65,8 @@ My musical journey started at age five when I started to play the piano. I loved
 
 At age eleven, I began to play the saxophone. I instantly fell in love with the instrument’s rich timbre! I have been able to study under the tutelage of some amazing teachers. I’ve studied with [Jennifer Henion](https://www.ithaca.edu/staff/jhenion), Kelsey Melvin, and currently study with [Colin Gordon](http://colingordonmusic.com/). I have performed and studied many of the common saxophone standards, such as:
 
+{% imageRt "sax_in_group.jpg", "Crane School of Music" %}
+
 - Bozza, Eugene — Aria
 - Creston, Paul — Sonata\*
 - Fournier, Marie-Hélène — Horoscope\*
@@ -61,9 +80,9 @@ You can also [view my repertoire list](https://drive.google.com/file/d/1hYkV2u3A
 
 I also am a flutist and clarinetist. I’ve played in pit orchestras for multiple theatre companies as a woodwind doubler. One of my favorite woodwind books to play was _You’re a Good Man, Charlie Brown_. I always enjoy collaborating with other musicians through ensembles and pit orchestras!
 
-{% imageRt "sax_in_group.jpg", "Crane School of Music" %}
+{% imageLt "berklee.jpg", "Berklee Online Certificates" %}
 
-I have been a student of [Berklee Online](https://online.berklee.edu/) since 2020. I've been able to study music with individuals all over the world! It has been so interesting to hear about everyone's musical journey as part of these courses. In 2021, I earned a certificate in [Professional General Music Studies](https://online.berklee.edu/certificates/general-music-studies-professional) and another certificate in [Advanced Professional Theory, Harmony, and Ear Training](https://online.berklee.edu/certificates/theory-harmony-ear-training-advanced-professional). I was also a recipient of the Berklee Online Celebrity Scholarship in 2020 for my merit-based accomplishments in the program.
+I have been a student of [Berklee Online](https://online.berklee.edu/) since 2020. I've been able to study music with individuals all over the world! It has been so interesting to hear about everyone's musical journey as part of these courses. In 2021, I earned a certificate in [Professional General Music Studies](https://online.berklee.edu/certificates/general-music-studies-professional) and another certificate in [Advanced Professional Theory, Harmony, and Ear Training](https://online.berklee.edu/certificates/theory-harmony-ear-training-advanced-professional) (see my certificates at [Accredible](https://www.credential.net/profile/xanderdawson563034/wallet)). I was also a recipient of the Berklee Online Celebrity Scholarship in 2020 for my merit-based accomplishments in the program. Now that I've completed the program, I'm volunteering for the [Berklee Online Mentor Collective](https://online.berklee.edu/mentor-collective).
 
 When the pandemic hit, I started to make saxophone multitrack videos. These videos have been an outlet for me to explore the different ways of making music. My [first video](https://www.youtube.com/watch?v=1f0eIEh81dM) was a saxophone quartet. However, I’ve expanded to include other woodwind doubling instruments, piano, and voice. I’ve enjoyed exploring the technological side of music production, and I can’t wait to explore it more. I use [Final Cut Pro](https://www.apple.com/final-cut-pro/) for my video editing and [Logic Pro](https://www.apple.com/logic-pro/) for my audio editing.
 
@@ -100,9 +119,19 @@ I love to name my instruments (no, I’m not crazy). I feel like each instrument
 
 I really enjoy this Yamaha YAS-62! I bought it during my freshman year of high school, and have really enjoyed playing it. I play with the Vandoren Optimum mouthpiece (AL3), and with a Silverstein Titanium ligature (Generation 5).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wIIPfMCmtSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8LHkUOelm5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-grid" style="clear: both">
+  <div class="video">
+    <h3>Heiden Sonata</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/wIIPfMCmtSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>This was my submission for the New York State School of Music Festival 2021. I played the second and third movement of the Heiden Sonata for Alto Saxophone. 
+</p>
+  </div>
+  <div class="video">
+    <h3>USAF Band Duet Initiative</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/8LHkUOelm5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>I was fortunate to have the opportunity to play this virtually with MSgt Jeremy P. Koch of the United States Air Force Bands as part of the USAFB Duet Initiative.</p>
+  </div>
+</div>
 
 ### Felix
 
@@ -163,9 +192,17 @@ I learned to play piano on an upright we had borrowed from my grandparents. In 2
 
 {% image "piano.jpg", "At home on my family's piano" %}
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NpHRHrt-lpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GfhnkyXkUP4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video-grid" style="clear: both">
+  <div class="video">
+    <h3>Edvard Grieg: Notturno, Op. 54, No. 4</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/NpHRHrt-lpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+  </div>
+  <div class="video">
+    <h3>Mozart Fantasie in D Minor, K. 397</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/GfhnkyXkUP4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+</div>
 
   </article>
 </section>
