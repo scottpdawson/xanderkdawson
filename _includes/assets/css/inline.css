@@ -1,15 +1,13 @@
-@import url("https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer&family=EB+Garamond&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poiret+One&family=EB+Garamond&display=swap");
 
 :root {
-  --primary: blue;
-  --secondary: white;
-  --background: #fff0eb;
+  --background: white;
   --scale: 0.1;
-  --space: 10vmin;
-  --title-font: "IM Fell Great Primer", serif;
+  --space: 6vmin;
+  --title-font: "Poiret One", serif;
   --font-primary: "EB Garamond", serif;
-  --font-heading: "IM Fell Great Primer", serif;
-  --accent-color: rgb(0 114 255);
+  --font-heading: "Poiret One", serif;
+  --accent-color: hsl(11deg 80% 31%);
 }
 
 *,
@@ -45,10 +43,9 @@ body {
 
 body {
   color: hsl(0, 0%, 95%);
-  background-color: hsl(0, 0, 0);
-  font-size: clamp(1.2rem, 5vw, 1.5rem);
+  font-size: clamp(1rem, 5vw, 1.3rem);
   font-family: var(--font-primary);
-  line-height: 1.6;
+  line-height: 1.4;
   overflow-x: hidden;
 }
 
@@ -90,8 +87,8 @@ nav ul a {
   text-align: center;
   text-decoration: none;
   color: white;
-  font-size: 0.85em;
-  padding: 10px 15px;
+  font-size: 1em;
+  padding: 20px;
   transition: all 0.4s;
 }
 nav ul a.active {
@@ -142,7 +139,7 @@ footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  border-top: 10px solid black;
+  border-top: 1px solid white;
 }
 
 footer a,
@@ -220,19 +217,19 @@ footer a.fb:hover {
 .header,
 footer {
   position: relative;
-  height: 370px;
+  height: 350px;
   width: 100%;
   align-items: center;
   justify-content: center;
   background-image: linear-gradient(
       to bottom,
-      rgba(0, 0, 0, 0),
-      rgb(0 17 101 / 50%)
+      rgb(255 255 255 / 100%),
+      rgb(250 196 196 / 71%)
     ),
     url(/static/img/sax_schematic.jpg);
   background-size: cover;
   background-position: center center;
-  border-bottom: 10px solid black;
+  border-bottom: 2px solid #eee;
 }
 
 .section {
@@ -262,10 +259,10 @@ h3 {
   position: relative;
   margin: -85vh auto 0;
   padding: var(--space);
-  max-width: 80vw;
+  max-width: 85vw;
   width: calc(100% - var(--space));
-  background: #000000dd;
-  color: #ffffffee;
+  background: #ffffffdd;
+  color: #393939;
 }
 
 .content > * + * {
@@ -302,7 +299,8 @@ h3 {
   height: 50%;
   background: linear-gradient(
     to bottom,
-    hsla(0, 0, 0, 0) 0%,
+    hsla(255, 255, 255, 0) 0%,
+    /* hsla(0, 0, 0, 0) 0%,
     hsla(0, 0, 0, 0.013) 8.1%,
     hsla(0, 0, 0, 0.049) 15.5%,
     hsla(0, 0, 0, 0.104) 22.5%,
@@ -316,8 +314,8 @@ h3 {
     hsla(0, 0, 0, 0.825) 71%,
     hsla(0, 0, 0, 0.896) 77.5%,
     hsla(0, 0, 0, 0.951) 84.5%,
-    hsla(0, 0, 0, 0.987) 91.9%,
-    hsl(0, 0, 0) 100%
+    hsla(0, 0, 0, 0.987) 91.9%, */
+      hsl(255, 255, 255) 100%
   );
 }
 
@@ -344,7 +342,7 @@ textarea {
   font-size: 1rem;
   border: 1px solid #ffffff;
   background: #ffffff33;
-  color: white;
+  color: black;
   border-radius: 10px;
 }
 article .rt {
@@ -397,7 +395,7 @@ table th {
 }
 .video {
   flex: 1;
-  border: 1px solid #ffffff33;
+  border: 1px solid #00000033;
   padding: 1em;
 }
 .video:first-child {
@@ -419,6 +417,23 @@ table th {
 }
 .video p {
   font-size: 0.85em;
+}
+
+.l-grid {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  display: grid;
+  gap: 1em;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+}
+
+.docs img {
+  border: 0;
+}
+
+.docs p {
+  margin: 0;
 }
 
 @media screen and (max-width: 1000px) {

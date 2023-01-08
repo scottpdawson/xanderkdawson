@@ -8,7 +8,7 @@ eleventyNavigation:
 ---
 
 <section class="section">
-    {% containerImage "xander_flute_atlas.jpg" %}
+    {% containerImage "quartet.jpg" %}
     <article class="content">
 
 ## Hear Me Play
@@ -36,7 +36,7 @@ I love writing original music and arrangements. Here are a few of my featured pi
   <div class="video">
     <h3>Disney Villains Medley</h3>
     <iframe width="100%" height="200" src="https://www.youtube.com/embed/fEtENeMrq6E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>This piece combines three of my favorite Disney villain songs into a fun medley! The three songs featured are “Be Prepared”, “Friends on the Other Side”, and “Poor Unfortunate Souls”. I had so much fun arranging, performing, and editing this.</p>
+    <p>This piece combines three of my favorite Disney villain songs into a fun medley! The three songs featured are “Be Prepared”, “Friends on the Other Side”, and “Poor Unfortunate Souls”.</p>
   </div>
   <div class="video">
     <h3>The Great Pumpkin Waltz</h3>
@@ -44,56 +44,21 @@ I love writing original music and arrangements. Here are a few of my featured pi
     <p>This is a cover I wrote of Vince Guaraldi's <i>The Great Pumpkin Waltz</i>. Saxophone, piano, flute, and clarinet performed by Xander Dawson. Drums performed by Nate Wilson.</p>
   </div>
   <div class="video">
-    <h3>A Distant Memory</h3>
-    <iframe width="100%" height="200" src="https://www.youtube.com/embed/kX5qIVHMEAI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>One of my favorite original songs. It is the result of chord progression experimentation and uses lots of suspensions. I spent a solid week composing but it was totally worth it.</p>
+    <h3>This is Halloween</h3>
+    <iframe width="100%" height="200" src="https://www.youtube.com/embed/udvq0-gqq0o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <p>Danny Elfman's "This is Halloween" arranged for alto saxophone quartet.</p>
   </div>
 </div>
 
-<a href="https://www.youtube.com/channel/UCPfyuV99V6vOAUSYS7VrwZw" class="button">View my YouTube Channel</a>
+<a href="https://www.youtube.com/channel/UCPfyuV99V6vOAUSYS7VrwZw" class="button">View My YouTube Channel</a>
+
+[View my repertoire list](https://drive.google.com/file/d/1hYkV2u3Ab4W2yReDu_oEb614jQhwk2Hi/view) for a complete list of classical saxophone repertoire.
 
   </article>
 </section>
 
 <section class="section">
     {% containerImage "practicing_sax.jpg" %}
-    <article class="content">
-
-## Music
-
-My musical journey started at age five when I started to play the piano. I loved the way that the piano produced its sound, as well as the instrument’s linear nature. Next, I started to take voice lessons. The pedagogy was heavily focused on the vocal tone, exploring the movable-do solfège system, and the Takadimi system, which helped set a base for me in music theory.
-
-At age eleven, I began to play the saxophone. I instantly fell in love with the instrument’s rich timbre! I have been able to study under the tutelage of some amazing teachers. I’ve studied with [Jennifer Henion](https://www.ithaca.edu/staff/jhenion), Kelsey Melvin, and currently study with [Colin Gordon](http://colingordonmusic.com/). I have performed and studied many of the common saxophone standards, such as:
-
-{% imageRt "sax_in_group.jpg", "Crane School of Music" %}
-
-- Bozza, Eugene — Aria
-- Creston, Paul — Sonata\*
-- Fournier, Marie-Hélène — Horoscope\*
-- Glazunov, Alexander — Concerto
-- Heiden, Bernhard — Diversion
-- Heiden, Bernhard — Sonata\*
-- Maurice, Paule — Tableaux de Provence
-- Milhaud, Darius — Scaramouche
-
-You can also [view my repertoire list](https://drive.google.com/file/d/1hYkV2u3Ab4W2yReDu_oEb614jQhwk2Hi/view).
-
-I also am a flutist and clarinetist. I’ve played in pit orchestras for multiple theatre companies as a woodwind doubler. One of my favorite woodwind books to play was _You’re a Good Man, Charlie Brown_. I always enjoy collaborating with other musicians through ensembles and pit orchestras!
-
-{% imageLt "berklee.jpg", "Berklee Online Certificates" %}
-
-I have been a student of [Berklee Online](https://online.berklee.edu/) since 2020. I've been able to study music with individuals all over the world! It has been so interesting to hear about everyone's musical journey as part of these courses. In 2021, I earned a certificate in [Professional General Music Studies](https://online.berklee.edu/certificates/general-music-studies-professional) and another certificate in [Advanced Professional Theory, Harmony, and Ear Training](https://online.berklee.edu/certificates/theory-harmony-ear-training-advanced-professional) (see my certificates at [Accredible](https://www.credential.net/profile/xanderdawson563034/wallet)). I was also a recipient of the Berklee Online Celebrity Scholarship in 2020 for my merit-based accomplishments in the program. Now that I've completed the program, I'm volunteering for the [Berklee Online Mentor Collective](https://online.berklee.edu/mentor-collective).
-
-When the pandemic hit, I started to make saxophone multitrack videos. These videos have been an outlet for me to explore the different ways of making music. My [first video](https://www.youtube.com/watch?v=1f0eIEh81dM) was a saxophone quartet. However, I’ve expanded to include other woodwind doubling instruments, piano, and voice. I’ve enjoyed exploring the technological side of music production, and I can’t wait to explore it more. I use [Final Cut Pro](https://www.apple.com/final-cut-pro/) for my video editing and [Logic Pro](https://www.apple.com/logic-pro/) for my audio editing.
-
-When the pandemic hit, I started to make saxophone multitrack videos. I had so much fun with , so I ended up making [many more](https://www.youtube.com/channel/UCPfyuV99V6vOAUSYS7VrwZw/videos). I’ve enjoyed exploring the technological side of music production, and I can’t wait to explore it more! I use for my video editing and [GarageBand](https://www.apple.com/mac/garageband/) for my audio editing.
-
-I’ve been inspired by so many amazing individuals in the music community. I love listening to many of the jazz greats such as Charlie Parker, Sonny Rollins, John Coltrane, Johnny Hodges, and more! I also love listening to classical music standards, as well as more contemporary music. One of my professional goals is to be a musician on a national tour or Broadway production.
-
-  </article>
-</section>
-<section class="section">
-    {% containerImage "sax.jpg" %}
     <article class="content">
 
 ## Meet My Instruments
