@@ -6,6 +6,10 @@
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
   <script src="https://kit.fontawesome.com/17de848660.js" crossorigin="anonymous"></script>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  {%- if usesGallery -%}
+  <script src="//cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.pkgd.js"></script>
+  <link rel="stylesheet" href="  //cdnjs.cloudflare.com/ajax/libs/flickity/1.0.0/flickity.css" />
+  {%- endif -%}
   {% set css %}
     {% include "assets/css/inline.css" %}
   {% endset %}

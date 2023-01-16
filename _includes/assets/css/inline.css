@@ -143,7 +143,7 @@ footer {
 }
 
 footer a,
-button {
+footer button {
   text-decoration: none;
   background: white;
   width: 50px;
@@ -162,7 +162,6 @@ button,
 .button {
   margin: 0 auto;
   background: var(--accent-color);
-  min-width: 200px;
   border: 0;
   font-size: 0.85em;
   border-radius: 40px;
@@ -480,6 +479,133 @@ table th {
     display: block;
   }
   .resume-frame {
+    display: none;
+  }
+}
+
+/* flickity on by default */
+.gallery:after {
+  content: "flickity";
+  display: none;
+}
+.gallery-cell {
+  width: 85%;
+  height: 500px;
+  margin-right: 10px;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
+  padding: 2em;
+  background: #ffffff99;
+}
+
+.sampleContainer {
+  display: flex;
+  gap: 1em;
+  width: 100%;
+  height: 100%;
+}
+.sampleMeta {
+  width: 350px;
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  position: relative;
+}
+.sampleMeta h3 {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  padding: 10px;
+  color: white;
+  font-size: 1.2em;
+  background: #00000099;
+  border-top-left-radius: 10px;
+  width: 75%;
+  text-align: right;
+}
+.sampleMp3 {
+  flex: 1;
+  overflow: auto;
+  font-size: 0.9em;
+}
+.sampleMp3 p:first-of-type {
+  margin-top: 0;
+}
+.mp3Container {
+  margin: 0px 5px 20px;
+}
+.mp3Item {
+  box-shadow: 0 3px 10px rgb(0 0 0 / 20%);
+  background: white;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.mp3Item p {
+  margin: 1em;
+  padding: 0;
+  padding-top: 10px;
+  margin-bottom: -1px;
+}
+.mp3Item b {
+  font-size: 0.85em;
+  opacity: 0.6;
+}
+.flickity-viewport {
+  overflow-y: visible;
+  margin-bottom: 3em;
+}
+.gallery-cell:not(.is-selected) {
+  opacity: 0.5;
+}
+.gallery:not(.js-flickity) .gallery-cell {
+  opacity: 1;
+  margin: 0 auto;
+}
+audio {
+  width: 100%;
+}
+audio::-webkit-media-controls-panel {
+  background-color: white;
+}
+
+@media screen and (max-width: 1250px) {
+  .sampleContainer {
+    display: block;
+  }
+  .sampleMeta {
+    background: none !important;
+  }
+  .sampleMeta h3 {
+    position: relative;
+    padding: 0px;
+    color: black;
+    font-size: 2em;
+    background: transparent;
+    width: auto;
+    text-align: left;
+    margin-bottom: 10px;
+  }
+  .sampleMp3 {
+    max-height: 95%;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .gallery:after {
+    content: "";
+  }
+  .gallery-cell:not(.is-selected) {
+    opacity: 1;
+  }
+  .gallery-cell {
+    width: 100%;
+    height: fit-content;
+    margin: 0;
+    border-radius: 0;
+    box-shadow: none;
+    padding: 10px;
+    background: #ffffff99;
+  }
+  .hideOnMobile {
     display: none;
   }
 }
