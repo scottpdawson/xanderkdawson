@@ -1,31 +1,39 @@
 ---
-title: Music
+title: Instruments / Listen
 metaDescription: I started my musical journey at age 5 when I started to play the piano! I play piano, saxophone, clarinet, and flute, and sing.
-permalink: /music/
+permalink: /listen/
 usesGallery: true
 eleventyNavigation:
-  key: Music
+  key: Instruments / Listen
   order: 1
 ---
+
+<section class="section">
+    {% containerImage "practicing_sax.jpg" %}
+    <article class="content">
+
+## Instruments
+
+{% include saxophone.md %}
+{% include clarinet.md %}
+{% include flute.md %}
+{% include piano.md %}
+
+  </article>
+</section>
 
 <section class="section">
     {% containerImage "quartet.jpg" %}
     <article class="content">
 
-## Hear Me Play
+## Listen
 
-### Featured Works
+### Woodwind Pit Reel
 
-<div class="video-grid">
+<div class="video-grid" style="max-width: 700px; margin: 0 auto; margin-top: 1em">
   <div class="video">
-    <h3>Berbiguier Étude 1</h3>
-    <iframe width="100%" height="200" src="https://www.youtube.com/embed/-VXb03ZxEE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>This is my performance of étude 1 from the 18 exercises or études by Berbiguier.</p>
-  </div>
-  <div class="video">
-    <h3>Indie Film Contest</h3>
-    <iframe width="100%" height="200" src="https://www.youtube.com/embed/jfeoLomVH_M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <p>I was selected as a finalist in the 2021 <a href="https://indiefilmmusiccontest.com/">Indie Film Contest</a>. I scored this original film created by Jake Wegesin.</p>
+    <h3>Woodwind Pit Reel</h3>
+    <iframe width="100%" height="400" src="https://www.youtube.com/embed/gQe_N0Sf8fg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
@@ -54,20 +62,6 @@ I love writing original music and arrangements. Here are a few of my featured pi
 <a href="https://www.youtube.com/channel/UCPfyuV99V6vOAUSYS7VrwZw" class="button">View My YouTube Channel</a>
 
 [View my repertoire list](https://drive.google.com/file/d/1hYkV2u3Ab4W2yReDu_oEb614jQhwk2Hi/view) for a complete list of classical saxophone repertoire.
-
-  </article>
-</section>
-
-<section class="section">
-    {% containerImage "practicing_sax.jpg" %}
-    <article class="content">
-
-## Audio Samples
-
-{% include saxophone.md %}
-{% include clarinet.md %}
-{% include flute.md %}
-{% include piano.md %}
 
   </article>
 </section>

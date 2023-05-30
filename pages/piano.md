@@ -11,12 +11,11 @@
         <h3>Piano</h3>
       </div>
       <div class="sampleMp3">
-        <p>I learned to play piano on an upright we had borrowed from my grandparents. In 2016, my parents bought a <a href="https://www.steinway.com/pianos/steinway/grand/model-s">1941 Steinway Model S</a>.</p>
+        <p>Mozart Fantasie in D Minor, K. 397</p>
+        <iframe width="100%" height="350" src="https://www.youtube.com/embed/GfhnkyXkUP4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p>Edvard Grieg: Notturno, Op. 54, No. 4</p>
         <iframe width="100%" height="350" src="https://www.youtube.com/embed/NpHRHrt-lpo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </p>
-        <p>Mozart Fantasie in D Minor, K. 397</p>
-        <iframe width="100%" height="350" src="https://www.youtube.com/embed/GfhnkyXkUP4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>    
   </div>

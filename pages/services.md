@@ -54,6 +54,7 @@ I offer private lessons for saxophone, music theory, and ear training. I teach s
 
 **RATES**
 30-minute private lesson: **$20**
+45-minute private lesson: **$30**
 60-minute private lesson: **$40**
 
 Not sure how you feel about [solfège](https://en.wikipedia.org/wiki/Solf%C3%A8ge)? Let me change your mind! Check out this version of Chick Corea’s “Spain” with added solfège. I offer lessons in movable-do and fixed-do solfège: you pick! Ready to get started? Contact me using the button below.
