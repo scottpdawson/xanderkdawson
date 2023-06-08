@@ -17,7 +17,44 @@ eleventyNavigation:
 
 {% imageRt "tenor_sax.jpg", "" %}
 
-Xander Dawson is a saxophonist and woodwind doubler currently based in Boston. Originally from upstate New York, he has played in numerous productions ranging from educational theatre to professional regional productions. He currently plays woodwinds (flute/clarinet/alto sax/tenor sax) on [Explora I](https://explorajourneys.com/us/en/ships), the first ship in the [Explora Journeys](https://explorajourneys.com/) fleet. Other notable performances include performing as the principal saxophonist in the New York All-State Music Festival in 2021 at the Eastman Theatre in Rochester, NY.
+Xander Dawson is a saxophonist and woodwind doubler currently based in Boston. Originally from upstate New York, he has played in numerous productions ranging from educational theatre to professional regional productions. His experience includes performing as the principal saxophonist in the New York All-State Music Festival in 2021 at the Eastman Theatre in Rochester, New York. He currently plays woodwinds _(flute/clarinet/alto sax/tenor sax)_ on [Explora I](https://explorajourneys.com/us/en/ships), the first ship in the [Explora Journeys](https://explorajourneys.com/) fleet. You can follow Xander's current journey on:
+
+<ul class="l-grid social-grid">
+
+  <li>
+    <a href="https://www.instagram.com/xkdawson1">
+      <div class="social-avatar">
+        <img src="/static/img/social/xkdawson1.jpg" title="Xander Dawson" />
+        <i class="social-icon fab fa-instagram"></i>
+      </div>
+      <p>Xander</p>
+      <p class="social-handle" title="@xkdawson1">@xkdawson1</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.instagram.com/explorajourneyscollective">
+      <div class="social-avatar">
+        <img src="/static/img/social/explorajourneyscollective.jpg" title="EJ Collective" />
+        <i class="social-icon fab fa-instagram"></i>
+      </div>
+      <p>EJ Collective</p>
+      <p class="social-handle" title="@explorajourneyscollective">@explorajourneyscollective</p>
+    </a>
+  </li>
+
+  <li>
+    <a href="https://www.instagram.com/explorajourneys">
+      <div class="social-avatar">
+        <img src="/static/img/social/explorajourneys.jpg" title="Explora Journeys" />
+        <i class="social-icon fab fa-instagram"></i>
+      </div>
+      <p>Explora Journeys</p>
+      <p class="social-handle" title="@explorajourneys">@explorajourneys</p>
+    </a>
+  </li>
+
+</ul>
 
 As a freelance woodwind doubler, he has worked with multiple theatre companies, including [Speakeasy Stage Company](https://speakeasystage.com/), [Boston University on Broadway](http://bostonuniversityonbroadway.com/), [Emerson College](https://emerson.edu/), [Berklee College of Music](https://www.berklee.edu/), and [Running to Places Theatre Company](https://www.runningtoplaces.org/). He also holds a chair with the [Berklee Broadway Band](https://www.instagram.com/the_broadway_band) as a multiple woodwind performer.
 
