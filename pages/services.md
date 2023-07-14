@@ -27,39 +27,39 @@ Click each item in my curated selection of my transcriptions and score preparati
     "watchCSS": true, "wrapAround": true
   }'>
 
-  <a class="doc" href="/static/pdf/transcription-2023/1-hard-days-night.pdf" style="background: url('/static/pdf/transcription-2023/t/1.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/1-hard-days-night.pdf" style="background: url('/static/pdf/transcription-2023/t/1.png') top left / cover no-repeat;">
     <p>A Hard Day's Night<span>Transcription</span></p>
   </a>
 
-  <a class="doc" href="/static/pdf/transcription-2023/2-norwegian-wood.pdf" style="background: url('/static/pdf/transcription-2023/t/2.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/2-norwegian-wood.pdf" style="background: url('/static/pdf/transcription-2023/t/2.png') top left / cover no-repeat;">
     <p>Norwegian Wood<span>Transcription</span></p>
   </a>
 
-  <a class="doc" href="/static/pdf/transcription-2023/3-biggest-blame-fool-score.pdf" style="background: url('/static/pdf/transcription-2023/t/3.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/3-biggest-blame-fool-score.pdf" style="background: url('/static/pdf/transcription-2023/t/3.png') top left / cover no-repeat;">
     <p>Biggest Blame Fool<span>Score Prep</span></p>
   </a>
 
-  <a class="doc" href="/static/pdf/transcription-2023/4-this-is-halloween-saxophone-quartet.pdf" style="background: url('/static/pdf/transcription-2023/t/4.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/4-this-is-halloween-saxophone-quartet.pdf" style="background: url('/static/pdf/transcription-2023/t/4.png') top left / cover no-repeat;">
     <p>This is Halloween<span>Arrangement</span></p>
   </a>
 
-  <a class="doc" href="/static/pdf/transcription-2023/5-all-i-ever-wanted.pdf" style="background: url('/static/pdf/transcription-2023/t/5.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/5-all-i-ever-wanted.pdf" style="background: url('/static/pdf/transcription-2023/t/5.png') top left / cover no-repeat;">
     <p>All I Ever Wanted<span>Score Prep</span></p>
   </a>
 
-  <a class="doc" href="/static/pdf/transcription-2023/6-biggest-blame-fool-reed.pdf" style="background: url('/static/pdf/transcription-2023/t/6.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/6-biggest-blame-fool-reed.pdf" style="background: url('/static/pdf/transcription-2023/t/6.png') top left / cover no-repeat;">
     <p>Biggest Blame Fool (Reed)<span>Score Prep</span></p>
   </a>
 
-  <a class="doc" href="/static/pdf/transcription-2023/7-carmina-burana.pdf" style="background: url('/static/pdf/transcription-2023/t/7.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/7-carmina-burana.pdf" style="background: url('/static/pdf/transcription-2023/t/7.png') top left / cover no-repeat;">
     <p>Carmina Burana<span>Score Prep/Transcription</span></p>
   </a>
 
-  <a class="doc" href="/static/pdf/transcription-2023/8-MIXODorian-full-score.pdf" style="background: url('/static/pdf/transcription-2023/t/8.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/8-MIXODorian-full-score.pdf" style="background: url('/static/pdf/transcription-2023/t/8.png') top left / cover no-repeat;">
     <p>MIXODorian<span>Original Composition</span></p>
   </a>
 
-  <a class="doc" href="/static/pdf/transcription-2023/9-all-i-ever-wanted.pdf" style="background: url('/static/pdf/transcription-2023/t/9.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/transcription-2023/9-all-i-ever-wanted.pdf" style="background: url('/static/pdf/transcription-2023/t/9.png') top left / cover no-repeat;">
     <p>All I Ever Wanted (Violin)<span>Score Prep</span></p>
   </a>
 
