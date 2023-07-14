@@ -2,6 +2,7 @@
 title: Services
 metaDescription: Xander Dawson provides score preparation, transcription, private lessons for saxophone, music theory, or ear training, and scoring.
 permalink: /services/
+usesGallery: true
 eleventyNavigation:
   key: Services
   order: 2
@@ -19,34 +20,50 @@ Does this sound like you? You just added the final touches to your musical proje
 
 ### Samples
 
-See below for a curated selection of my transcriptions and score preparation materials.
+Click each item in my curated selection of my transcriptions and score preparation materials.
 
-<ul class="l-grid docs">
-  <li>
-    <a href="/static/pdf/transcription/Norwegian Wood.pdf"><img style="background: white;
-    padding-bottom: 78px;" src="/static/pdf/transcription/thumbnail/Norwegian Wood.jpg"></a>
-    <p><a href="/static/pdf/transcription/Norwegian Wood.pdf">Norwegian Wood</a></p>
-  </li>
-  <li>
-    <a href="/static/pdf/transcription/Til I Hear You Sing Cello.pdf"><img src="/static/pdf/transcription/thumbnail/Til I Hear You Sing Cello.jpg"></a>
-    <p><a href="/static/pdf/transcription/Til I Hear You Sing Cello.pdf">'Til I Hear You Sing (Cello)*</a></p>
-  </li>
-  <li>
-    <a href="/static/pdf/transcription/Til I Hear You Sing Reed.pdf"><img src="/static/pdf/transcription/thumbnail/Til I Hear You Sing Reed.jpg"></a>
-    <p><a href="/static/pdf/transcription/Til I Hear You Sing Reed.pdf">'Til I Hear You Sing (Reed)*</a></p>
-  </li>
-  <li>
-    <a href="/static/pdf/transcription/This is Halloween Saxophone Quartet.pdf"><img style="background: white;
-    padding-bottom: 78px;" src="/static/pdf/transcription/thumbnail/This is Halloween Saxophone Quartet.jpg"></a>
-    <p><a href="/static/pdf/transcription/This is Halloween Saxophone Quartet.pdf">This is Halloween (Saxophone Quartet)</a></p>
-  </li>
-   <li>
-    <a href="/static/pdf/transcription/All the Things You Are.pdf"><img src="/static/pdf/transcription/thumbnail/All the Things You Are.jpg"></a>
-    <p><a href="/static/pdf/transcription/All the Things You Are.pdf">All the Things You Are</a></p>
-  </li>
-</ul>
+<div class="docs gallery js-flickity"
+  data-flickity-options='{ 
+    "watchCSS": true, "wrapAround": true
+  }'>
 
-_\*&nbsp;Used with permission by Daniel Chouinard, Orchestrator_
+  <a class="doc" href="/static/pdf/transcription-2023/1-hard-days-night.pdf" style="background: url('/static/pdf/transcription-2023/t/1.png') top left / cover no-repeat;">
+    <p>A Hard Day's Night<span>Transcription</span></p>
+  </a>
+
+  <a class="doc" href="/static/pdf/transcription-2023/2-norwegian-wood.pdf" style="background: url('/static/pdf/transcription-2023/t/2.png') top left / cover no-repeat;">
+    <p>Norwegian Wood<span>Transcription</span></p>
+  </a>
+
+  <a class="doc" href="/static/pdf/transcription-2023/3-biggest-blame-fool-score.pdf" style="background: url('/static/pdf/transcription-2023/t/3.png') top left / cover no-repeat;">
+    <p>Biggest Blame Fool<span>Score Prep</span></p>
+  </a>
+
+  <a class="doc" href="/static/pdf/transcription-2023/4-this-is-halloween-saxophone-quartet.pdf" style="background: url('/static/pdf/transcription-2023/t/4.png') top left / cover no-repeat;">
+    <p>This is Halloween<span>Arrangement</span></p>
+  </a>
+
+  <a class="doc" href="/static/pdf/transcription-2023/5-all-i-ever-wanted.pdf" style="background: url('/static/pdf/transcription-2023/t/5.png') top left / cover no-repeat;">
+    <p>All I Ever Wanted<span>Score Prep</span></p>
+  </a>
+
+  <a class="doc" href="/static/pdf/transcription-2023/6-biggest-blame-fool-reed.pdf" style="background: url('/static/pdf/transcription-2023/t/6.png') top left / cover no-repeat;">
+    <p>Biggest Blame Fool (Reed)<span>Score Prep</span></p>
+  </a>
+
+  <a class="doc" href="/static/pdf/transcription-2023/7-carmina-burana.pdf" style="background: url('/static/pdf/transcription-2023/t/7.png') top left / cover no-repeat;">
+    <p>Carmina Burana<span>Score Prep/Transcription</span></p>
+  </a>
+
+  <a class="doc" href="/static/pdf/transcription-2023/8-MIXODorian-full-score.pdf" style="background: url('/static/pdf/transcription-2023/t/8.png') top left / cover no-repeat;">
+    <p>MIXODorian<span>Original Composition</span></p>
+  </a>
+
+  <a class="doc" href="/static/pdf/transcription-2023/9-all-i-ever-wanted.pdf" style="background: url('/static/pdf/transcription-2023/t/9.png') top left / cover no-repeat;">
+    <p>All I Ever Wanted (Violin)<span>Score Prep</span></p>
+  </a>
+
+</div>
 
 ## Private Lessons
 
