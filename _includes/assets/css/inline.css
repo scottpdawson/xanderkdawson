@@ -7,7 +7,9 @@
   --title-font: "Poiret One", serif;
   --font-primary: "EB Garamond", serif;
   --font-heading: "Poiret One", serif;
-  --accent-color: hsl(11deg 80% 31%);
+  --accent-color: rgb(0 6 28);
+  --header-footer-accent-color: rgb(0 6 28 / 70%);
+  --link-color: #0523d2;
 }
 
 *,
@@ -50,7 +52,7 @@ body {
 }
 
 a {
-  color: var(--accent-color);
+  color: var(--link-color);
   text-decoration: none;
 }
 
@@ -223,7 +225,7 @@ footer {
   background-image: linear-gradient(
       to bottom,
       rgb(255 255 255 / 100%),
-      rgb(250 196 196 / 71%)
+      var(--header-footer-accent-color)
     ),
     url(/static/img/sax_schematic.jpg);
   background-size: cover;

@@ -7,7 +7,7 @@
   <!-- begin instrument -->
   <div class="gallery-cell">
     <div class="sampleContainer">
-      <div class="sampleMeta" style="background: url(/static/img/tenor_sax.jpg) white top right/cover no-repeat">
+      <div class="sampleMeta" style="background: url(/static/img/sax_closeup.jpg) white top right/cover no-repeat">
         <h3>Alto Saxophone</h3>
       </div>
       <div class="sampleMp3">

@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 
 <section class="section">
-    {% containerImage "contact.jpg" %}
+    {% containerImage "divas_explora.jpg" %}
     <article class="content">
     
 ## Contact Me
