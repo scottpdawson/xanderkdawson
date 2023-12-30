@@ -1,6 +1,6 @@
-<h3 style="text-align: center" class="hideOnMobile">Saxophones</h3>
+<h3 style="text-align: center" class="hideOnMobile">Saxophone</h3>
 <!-- js-flickity -->
-<div class="gallery js-flickity"
+<div class="gallery"
   data-flickity-options='{ 
     "watchCSS": true, "wrapAround": true
   }'>
@@ -8,18 +8,36 @@
   <div class="gallery-cell">
     <div class="sampleContainer">
       <div class="sampleMeta" style="background: url(/static/img/sax_closeup.jpg) white top right/cover no-repeat">
-        <h3>Alto Saxophone</h3>
+        <h3>Saxophone</h3>
       </div>
       <div class="sampleMp3">
-        <iframe width="100%" height="350" src="https://www.youtube.com/embed/-VXb03ZxEE0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <!-- <p>This was my submission for the New York State School of Music Festival 2021. I played the second and third movement of the Heiden Sonata for Alto Saxophone.</p>
-        <iframe width="100%" height="200" src="https://www.youtube.com/embed/wIIPfMCmtSE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-        <p>I was fortunate to have the opportunity to play virtually with MSgt Jeremy P. Koch of the United States Air Force Bands as part of the USAFB Duet Initiative.</p>
-        <iframe width="100%" height="350" src="https://www.youtube.com/embed/8LHkUOelm5c" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+        <div class="mp3Container">
+          <div class="mp3Item">
+            <p><b>01.</b> Soprano Saxophone (Urinetown Overture)</p>
+            <audio controls style="background: none">
+              <source src="/static/mp3/sax/urinetown_soprano.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          <div class="mp3Item">
+            <p><b>02.</b> Alto Saxophone (Multiple Recordings)</p>
+            <audio controls style="background: none">
+              <source src="/static/mp3/sax/alto.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          <div class="mp3Item">
+            <p><b>03.</b> Tenor Saxophone (Multiple Recordings)</p>
+            <audio controls style="background: none">
+              <source src="/static/mp3/sax/tenor.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+        </div>
       </div>
     </div>    
   </div>
-  <div class="gallery-cell">
+  <!-- <div class="gallery-cell">
     <div class="sampleContainer">
       <div class="sampleMeta" style="background: url(/static/img/tenor_sax.jpg) white top right/cover no-repeat">
         <h3>Soprano Saxophone</h3>
@@ -38,7 +56,7 @@
         Audio samples coming soon
       </div>
     </div>    
-  </div>
+  </div> -->
   <!-- <div class="gallery-cell">
     <div class="sampleContainer">
       <div class="sampleMeta" style="background: url(/static/img/saxophone.jpg) white top right/cover no-repeat">

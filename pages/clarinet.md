@@ -20,14 +20,21 @@
             </audio>
           </div>
           <div class="mp3Item">
-            <p><b>02.</b> Cavallini Caprices</p>
+            <p><b>02.</b> All That Jazz</p>
+            <audio controls style="background: none">
+              <source src="/static/mp3/clarinet/all_that_jazz.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          <div class="mp3Item">
+            <p><b>03.</b> Cavallini Caprices</p>
             <audio controls style="background: none">
               <source src="/static/mp3/clarinet 2.mp3" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
           </div>
           <div class="mp3Item">
-            <p><b>03.</b> No. 3 in C Major, Crusell</p>
+            <p><b>04.</b> No. 3 in C Major, Crusell</p>
             <audio controls style="background: none">
               <source src="/static/mp3/clarinet 3.mp3" type="audio/mpeg">
               Your browser does not support the audio element.

@@ -17,7 +17,6 @@ eleventyNavigation:
 {% include saxophone.md %}
 {% include clarinet.md %}
 {% include flute.md %}
-{% include piano.md %}
 
   </article>
 </section>

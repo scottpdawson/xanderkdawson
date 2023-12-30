@@ -27,16 +27,9 @@
             </audio>
           </div>
           <div class="mp3Item">
-            <p><b>03.</b> Waltz (Untitled), Xander Dawson</p>
+            <p><b>03.</b> My Heart Will Go On</p>
             <audio controls style="background: none">
-              <source src="/static/mp3/flute 3.mp3" type="audio/mpeg">
-              Your browser does not support the audio element.
-            </audio>
-          </div>
-          <div class="mp3Item">
-            <p><b>04.</b> Syrinx, Debussy</p>
-            <audio controls style="background: none">
-              <source src="/static/mp3/flute 4.mp3" type="audio/mpeg">
+              <source src="/static/mp3/flute/my_heart_will_go_on.mp3" type="audio/mpeg">
               Your browser does not support the audio element.
             </audio>
           </div>

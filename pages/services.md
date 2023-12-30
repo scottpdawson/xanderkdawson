@@ -9,7 +9,7 @@ eleventyNavigation:
 ---
 
 <section class="section">
-    {% containerImage "saxophone.jpg" %}
+    {% containerImage "lejazz.jpg" %}
     <article class="content">
 
 ## Score Preparation & Transcription
