@@ -22,11 +22,11 @@ Select each résumé for a closer look.
 "pageDots": false
   }'>
 
-  <a class="doc" target="_blank" href="/static/pdf/music_resume.pdf" style="height: 500px; width: 390px; background: url('/static/pdf/music_resume.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/music_resume.pdf" style="height: 490px; width: 390px; max-width: 100%; background: white url('/static/pdf/music_resume.png') top center / contain no-repeat;">
     <p>Music Résumé</p>
   </a>
 
-  <a class="doc" target="_blank" href="/static/pdf/academic_resume.pdf" style="height: 500px; width: 390px; background: url('/static/pdf/academic_resume.png') top left / cover no-repeat;">
+  <a class="doc" target="_blank" href="/static/pdf/academic_resume.pdf" style="height: 490px; width: 390px;max-width: 100%;  background: white url('/static/pdf/academic_resume.png') top center / contain no-repeat;">
     <p>Academic Résumé</p>
   </a>
 
