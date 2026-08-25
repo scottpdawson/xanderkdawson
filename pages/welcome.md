@@ -54,21 +54,14 @@ eleventyNavigation:
 
 </ul> -->
 
-Xander Dawson is a woodwind doubler specializing in musical theatre, cabaret, and commercial performance. He is a multi-instrumentalist covering piccolo, flute, clarinet, saxophones, oboe, and piano.
+Xander Dawson is a woodwind doubler based in Boston and New York City, specializing in musical theatre, cabaret, and commercial performance.
 
-He is currently performing as Reed I (piccolo/flute/clarinet) in the national touring production of [The Music Man](https://themusicmantour.com/). He has also performed on cruise ships with Azamara Club Cruises and Explora Journeys, including as part of the inaugural cast opening their first cruise ship, Explora I.
+He is currently playing flute in the national touring production of [Ghostbusters in Concert](https://www.ghostbustersinconcert.com/), and has touring experience playing The Music Man, The Great Gatsby, and The Rock Orchestra. His experience also includes cruise ship performance with Explora Journeys, including as Reed I and Company Manager for the inaugural cast opening the company's first ship, MSC Explora I, and with Azamara Cruises.
 
-He has performed with Wheelock Family Theatre, Emerson College, Boston University, Berklee College of Music, and Boston Conservatory at Berklee, and in New York cabaret venues such as The Green Room 42 and 54 Below. He has also served as Associate Music Director of the [Berklee Broadway Band](https://www.instagram.com/the_broadway_band).
+His regional and collegiate credits include Ogunquit Playhouse, Umbrella Arts Center, Emerson College, Wheelock Family Theatre, Berklee College of Music, Boston University, and New York cabaret venues such as The Green Room 42 and 54 Below. He has also served as Associate Music Director of the [Berklee Broadway Band](https://www.instagram.com/the_broadway_band).
 
-Outside of music, Xander has served as Head Resident Assistant for Berklee College of Music housing, overseeing a team of Resident Assistants and managing schedules for the student community, and was recognized as Head Resident Assistant of the Year. He has also worked as a Core Music Tutor at Boston Conservatory at Berklee, supporting undergraduate and graduate students in music theory and ear training. He also served as an Admissions Ambassador, leading campus tours and connecting with prospective students.
+Outside of music, Xander has served as Head Resident Assistant for Berklee College of Music housing, overseeing a team of Resident Assistants and managing schedules for the student community, and was recognized as Head Resident Assistant of the Year. He has also worked as a Core Music Tutor at Boston Conservatory at Berklee, supporting undergraduate and graduate students in music theory and ear training, and served as an Admissions Ambassador, leading campus tours and connecting with prospective students.
 
-Xander holds a Bachelor of Music in Saxophone Performance from Boston Conservatory at Berklee, where he studied with [Philipp Stäudlin](https://bostonconservatory.berklee.edu/directory/philipp-st%C3%A4udlin). He is available for pit orchestras, touring productions, session recording, and arranging/copying. Please don’t hesitate to [get in touch for any inquiries](/contact/).
+Xander holds a Bachelor of Music in Saxophone Performance, with a minor in Psychology, Summa Cum Laude, from Boston Conservatory at Berklee, where he studied with [Philipp Stäudlin](https://bostonconservatory.berklee.edu/directory/philipp-st%C3%A4udlin). He is available for pit orchestras, touring productions, session recording, and arranging/copying. Please don’t hesitate to [get in touch for any inquiries](/contact/).
 
 <blockquote><i>“The sax playing is the stand-out on this track, balanced pushy harsh notes along with the most delicate of touches. The sax soars away with the melody in a raspy, improvised, tonal reflection of the original theme, almost delicate in its note placement. A gorgeous sax-led section adds variation and reflection.”</i><br />— Sammy Stein, <i>United Kingdom</i>, Jazz Views Reviews</blockquote>
-
-<h3>Woodwind Pit Reel</h3>
-
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/eWnUhB-ZQCM?si=U6-o355JB_SwClfN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<p style="text-align: center"><a href="https://www.youtube.com/channel/UCPfyuV99V6vOAUSYS7VrwZw" class="button">View My YouTube Channel</a>
-</p>
