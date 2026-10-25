@@ -56,7 +56,7 @@ eleventyNavigation:
 
 Xander Dawson is a woodwind doubler based in Boston and New York City, specializing in musical theatre, cabaret, and commercial performance.
 
-He is currently playing flute in the national touring production of [Ghostbusters in Concert](https://www.ghostbustersinconcert.com/), and has touring experience playing The Music Man, The Great Gatsby, and The Rock Orchestra. His experience also includes cruise ship performance with Explora Journeys, including as Reed I and Company Manager for the inaugural cast opening the company's first ship, MSC Explora I, and with Azamara Cruises.
+He has performed on the tours of Ghostbusters in Concert, Dirty Dancing the Musical, The Music Man, The Great Gatsby, and The Rock Orchestra. His experience also includes cruise ship performance with Explora Journeys, including as Reed I and Company Manager for the inaugural cast opening the company’s first ship, MSC Explora I, and with Azamara Cruises.
 
 His regional and collegiate credits include Ogunquit Playhouse, Umbrella Arts Center, Emerson College, Wheelock Family Theatre, Berklee College of Music, Boston University, and New York cabaret venues such as The Green Room 42 and 54 Below. He has also served as Associate Music Director of the [Berklee Broadway Band](https://www.instagram.com/the_broadway_band).
 
