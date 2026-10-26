@@ -41,7 +41,7 @@ async function contentImageRt(src, alt, sizes) {
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
   return `<div class="rt">${Image.generateHTML(
     metadata,
-    imageAttributes
+    imageAttributes,
   )}</div>`;
 }
 
@@ -64,7 +64,7 @@ async function contentImageLt(src, alt, sizes) {
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
   return `<div class="lt">${Image.generateHTML(
     metadata,
-    imageAttributes
+    imageAttributes,
   )}</div>`;
 }
 
@@ -87,7 +87,7 @@ async function contentImage(src, alt, sizes) {
   // You bet we throw an error on missing alt in `imageAttributes` (alt="" works okay)
   return `<div class="fsImage">${Image.generateHTML(
     metadata,
-    imageAttributes
+    imageAttributes,
   )}<div class="caption">${alt}</div></div>`;
 }
 
@@ -128,7 +128,8 @@ module.exports = function (eleventyConfig) {
     return `${year}`;
   });
 
-  eleventyConfig.addShortcode("containerImage", containerImage);
+  eleventyConfig.addAsyncShortcode("containerImage", containerImage);
+  eleventyConfig.addNunjucksAsyncShortcode("containerImage", containerImage);
   eleventyConfig.addShortcode("imageRt", contentImageRt);
   eleventyConfig.addShortcode("imageLt", contentImageLt);
   eleventyConfig.addShortcode("image", contentImage);
@@ -193,7 +194,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setLibrary(
     "md",
-    markdownIt(options).use(markdownItAnchor, opts)
+    markdownIt(options).use(markdownItAnchor, opts),
   );
 
   return {

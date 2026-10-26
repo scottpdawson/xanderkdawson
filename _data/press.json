@@ -1,0 +1,30 @@
+[
+  {
+    "date": "Oct 5, 2026",
+    "title": "Who you gon’ call? ‘Ghostbusters in Concert’",
+    "publisher": "UC San Diego’s The Guardian",
+    "url": "https://ucsdguardian.org/2026/10/05/who-you-gon-call-ghostbusters-in-concert/",
+    "background": "/static/img/media/ghostbusters.jpg"
+  },
+  {
+    "date": "Apr 17, 2026",
+    "title": "What Makes a Good Marathon Running Playlist?",
+    "publisher": "berklee.edu",
+    "url": "https://www.berklee.edu/berklee-now/news/marathon-running-playlist",
+    "background": "/static/img/media/marathon-playlist.jpg"
+  },
+  {
+    "date": "Jan 10, 2024",
+    "title": "Semester on a Ship",
+    "publisher": "Trumansburg Free Press",
+    "url": "https://drive.google.com/file/d/163E6nsO42PuNbd5-SecymPMQc44_NHMk/view?usp=sharing",
+    "background": "/static/img/media/explora.jpg"
+  },
+  {
+    "date": "Dec 20, 2021",
+    "title": "Local student plays sax with the best",
+    "publisher": "ithaca.com",
+    "url": "https://www.ithaca.com/news/regional_news/local-student-plays-sax-with-the-best/article_056fbb8a-5dc2-11ec-a409-0fb41d63564a.html",
+    "background": "/static/img/media/sax-best.jpg"
+  }
+]

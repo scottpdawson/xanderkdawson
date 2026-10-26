@@ -65,3 +65,6 @@ Outside of music, Xander has served as Head Resident Assistant for Berklee Colle
 Xander holds a Bachelor of Music in Saxophone Performance, with a minor in Psychology, Summa Cum Laude, from Boston Conservatory at Berklee, where he studied with [Philipp Stäudlin](https://bostonconservatory.berklee.edu/directory/philipp-st%C3%A4udlin). He is available for pit orchestras, touring productions, session recording, and arranging/copying. Please don’t hesitate to [get in touch for any inquiries](/contact/).
 
 <blockquote><i>“The sax playing is the stand-out on this track, balanced pushy harsh notes along with the most delicate of touches. The sax soars away with the melody in a raspy, improvised, tonal reflection of the original theme, almost delicate in its note placement. A gorgeous sax-led section adds variation and reflection.”</i><br />— Sammy Stein, <i>United Kingdom</i>, Jazz Views Reviews</blockquote>
+
+  </article>
+</section>
