@@ -1,5 +1,13 @@
 [
   {
+    "title": "Goodbye, Nyle",
+    "artist": "Benji Hafetz-Price, Asher Shectman",
+    "role": "Clarinet",
+    "type": "spotify",
+    "url": "https://open.spotify.com/album/1plCy8mC4NteVXQIgsCB0e",
+    "image": "/static/img/media/nyle.jpg"
+  },
+  {
     "title": "Miss Mind",
     "artist": "Alex Gao",
     "role": "Tenor sax",
